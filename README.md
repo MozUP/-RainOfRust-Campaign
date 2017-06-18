@@ -9,3 +9,6 @@ Mozilla Uttar Pradesh Rain of Rust Campaign.
 
 [here](https://github.com/MozillaIndia/RustIndia)
 
+### RUST Links :)
+
+[here](https://github.com/MozillaIndia/RustIndia/blob/master/Important_links.md)
