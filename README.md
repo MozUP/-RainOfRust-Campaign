@@ -1,7 +1,12 @@
 # RainOfRust-Campaign
 Mozilla Uttar Pradesh Rain of Rust Campaign.
 
-### RainOfRust Campaign KIt
+### Hashtag
+
+**#RainOfRust**
+
+
+### RainOfRust Campaign Kit
 
 [here](https://github.com/MozillaIndia/RustIndia/tree/master/RainOfRust)
 
@@ -12,3 +17,16 @@ Mozilla Uttar Pradesh Rain of Rust Campaign.
 ### RUST Links :)
 
 [here](https://github.com/MozillaIndia/RustIndia/blob/master/Important_links.md)
+
+### Cargo
+
+[here](https://crates.io/)
+
+### Tutorial Material
+
+[RustbyExample](https://rustbyexample.com/)
+
+Contribute to rustbyexample.com [here](https://github.com/rust-lang/rust-by-example)
+
+
+For further assistance you can ping [Shivank Shekhar](https://github.com/GeekyShiva) or [Anshuman Tiwari](https://github.com/anshumantiwari)
