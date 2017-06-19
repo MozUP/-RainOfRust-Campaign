@@ -29,4 +29,8 @@ Mozilla Uttar Pradesh Rain of Rust Campaign.
 Contribute to rustbyexample.com [here](https://github.com/rust-lang/rust-by-example)
 
 
+### Know More
+
+Learn more about rust and development related to rust at Mozilla Uttar Pradesh: [here](https://github.com/MozUP/awesome-rust)
+
 For further assistance you can ping [Shivank Shekhar](https://github.com/GeekyShiva) or [Anshuman Tiwari](https://github.com/anshumantiwari)
