@@ -28,6 +28,10 @@ Mozilla Uttar Pradesh Rain of Rust Campaign.
 
 Contribute to rustbyexample.com [here](https://github.com/rust-lang/rust-by-example)
 
+### Mozilla Learning Material
+
+[Learning Material](https://github.com/MozUP/rust)
+
 
 ### Know More
 
