@@ -36,6 +36,22 @@ Contribute to rustbyexample.com [here](https://github.com/rust-lang/rust-by-exam
 
 [Mozilla hacks Series](https://www.youtube.com/watch?v=8EPsnf_ZYU0)
 
+### Windows Users Rust Support tool
+
+All windows users check this out
+
+[Visual Studio](https://marketplace.visualstudio.com/items?itemName=vosen.VisualRust) extension for the Rust programming language.
+
+Currently, this extension provides:
+
+    Rust syntax highlighting and basic smart indentation
+    Go to definition
+    Project support
+    Compiler integration
+    Experimental gdb debugging support 
+
+Visit [this issue](https://github.com/PistonDevelopers/VisualRust/issues) to watch the development of this extension. From there you can suggest new features and report problems.
+
 
 ### Know More
 
