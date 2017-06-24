@@ -32,6 +32,10 @@ Contribute to rustbyexample.com [here](https://github.com/rust-lang/rust-by-exam
 
 [Learning Material](https://github.com/MozUP/rust)
 
+### Video Learning Series 
+
+[Mozilla hacks Series](https://www.youtube.com/watch?v=8EPsnf_ZYU0)
+
 
 ### Know More
 
