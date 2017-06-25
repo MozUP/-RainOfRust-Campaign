@@ -52,6 +52,10 @@ Currently, this extension provides:
 
 Visit [this issue](https://github.com/PistonDevelopers/VisualRust/issues) to watch the development of this extension. From there you can suggest new features and report problems.
 
+### Advance Rust Excercise
+
+[Rust exercise](https://github.com/vyaspranjal33/rust)
+
 
 ### Know More
 
